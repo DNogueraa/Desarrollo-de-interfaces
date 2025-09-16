@@ -1,2 +1,3 @@
 # Desarrollo de interfaces
-# AUTOR: DANIEL NOGUERA
+- Autor: Daniel Noguera
+- https://github.com/DNogueraa/Desarrollo-de-interfaces
