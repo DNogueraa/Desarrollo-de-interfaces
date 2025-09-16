@@ -1,1 +1,2 @@
-# Desarrollo-de-interfaces
+# Desarrollo de interfaces
+# AUTOR: DANIEL NOGUERA
