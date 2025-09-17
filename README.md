@@ -32,3 +32,27 @@ print(saludo)
 ## titulo 
 
 ![uy kieto](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJfUEKzv3JgNjZSqefX3AmimGAcKywdRxgVA&s)
+
+Notas al pie[^1]
+[^nota] Esto es una nota al pie
+| columna 1 | Columna 2 | Columna 3|
+| :--- | :---: | ---: |
+| Dato 1 | Dato 2 | Dato 3 |
+| Dato 1 | Dato 2 |
+| Dato 1 | Dato 2 | Dato 3 |
+<details>
+    <summary>
+        Esto es un menu desplegable
+    </summary>
+    Aqui escribimos
+</details>
+
+```mermaid
+graph TD;
+A-->B;
+A-->C;
+B-->D;
+C-->D;
+```
+
+
